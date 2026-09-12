@@ -120,7 +120,7 @@ The biggest takeaway was that effective dashboards start with **clean, structure
 
 **Banking Executive Summary Power BI Dashboard**
 
-![Banking Executive Summary Power BI Dashboard]\([https://github.com/sanikag99/Banking-Executive-Summary-PowerBI-Dashboard/blob/main/Banking_Project_Screenshot.png](https://github.com/sanikag99/Banking-Executive-Summary-PowerBI-Dashboard/blob/main/Banking_Project_Screenshot.png)\)
+![Banking Executive Summary Power BI Dashboard](https://github.com/sanikag99/Banking-Executive-Summary-PowerBI-Dashboard/blob/main/Banking_Project_Screenshot.png)
 
 
 Tools: **Python | Pandas | SQL | MySQL | Power BI | DAX**
